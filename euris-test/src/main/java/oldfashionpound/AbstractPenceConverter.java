@@ -1,4 +1,4 @@
-package euris.test.oldfashionpound;
+package oldfashionpound;
 
 public abstract class AbstractPenceConverter{
 	final Integer getPence() {

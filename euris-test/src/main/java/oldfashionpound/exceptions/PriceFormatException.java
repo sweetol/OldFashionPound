@@ -1,4 +1,4 @@
-package euris.test.oldfashionpound.exceptions;
+package oldfashionpound.exceptions;
 
 public class PriceFormatException extends Exception{
 

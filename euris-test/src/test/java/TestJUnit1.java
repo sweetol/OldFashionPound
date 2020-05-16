@@ -2,8 +2,8 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import euris.test.oldfashionpound.*;
-import euris.test.oldfashionpound.exceptions.*;
+import oldfashionpound.*;
+import oldfashionpound.exceptions.*;
 
 public class TestJUnit1 {
 

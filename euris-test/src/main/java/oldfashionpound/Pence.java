@@ -1,6 +1,6 @@
-package euris.test.oldfashionpound;
+package oldfashionpound;
 
-import euris.test.oldfashionpound.exceptions.*;
+import oldfashionpound.exceptions.*;
 
 public class Pence extends AbstractPenceConverter{
 	private Integer pence;

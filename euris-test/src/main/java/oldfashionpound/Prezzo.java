@@ -1,10 +1,11 @@
-package euris.test.oldfashionpound;
+package oldfashionpound;
 
-import euris.test.oldfashionpound.exceptions.*;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import oldfashionpound.exceptions.*;
 
 public class Prezzo {
 
