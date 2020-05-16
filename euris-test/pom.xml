@@ -7,6 +7,6 @@
 		<version>4</version>
 	</parent>
 	<groupId>euris.test</groupId>
-	<artifactId>euris-test</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>OldFashionPound</artifactId>
+	<version>1</version>
 </project>
